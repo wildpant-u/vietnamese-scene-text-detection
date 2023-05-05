@@ -10,7 +10,9 @@ Detection text model : './PaddleOCR/inference/SAST/'
 Recognitin text model: './PaddleOCR/inference/SRN/'
 
 Để xác định vị trí chữ trong ảnh hãy chạy file predict_det_vn.py
+
 Để nhận diện chữ chạy file predict_rec_vn.py
+
 Để xác định và detect đồng thời chuyển chữ trong ảnh thành giọng nói chạy file: predict_system_vn.py
 
 Mình rất biết ơn đến bạn Cao Hùng đã giúp đõ mình rất nhiều để hoàn thành project này. 
